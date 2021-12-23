@@ -51,6 +51,10 @@ h1{
 h4{
     font-family: cursive;
 }
+.card{
+    margin:auto;
+    
+}
 #Product .product img{
     border-radius: 30px;
     border: solid black;
